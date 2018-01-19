@@ -1,0 +1,10 @@
+-rw-r--r-- 1 camcgruder 1049089 2.5K Jan 18 22:39 mcf-nullauthority-connector.jar
+-rw-r--r-- 1 camcgruder 1049089 2.6K Jan 18 22:39 mcf-nulloutput-connector.jar
+-rw-r--r-- 1 camcgruder 1049089 7.8K Jan 18 22:39 mcf-activedirectory-connector.jar
+-rw-r--r-- 1 camcgruder 1049089  12K Jan 18 22:39 mcf-filesystem-connector.jar
+-rw-r--r-- 1 camcgruder 1049089  32K Jan 18 22:39 mcf-gts-connector.jar
+-rw-r--r-- 1 camcgruder 1049089  41K Jan 18 22:39 mcf-jdbc-connector.jar
+-rw-r--r-- 1 camcgruder 1049089  43K Jan 18 22:39 mcf-solr-connector.jar
+-rw-r--r-- 1 camcgruder 1049089  98K Jan 18 22:39 mcf-rss-connector.jar
+-rw-r--r-- 1 camcgruder 1049089 177K Jan 18 22:39 mcf-web-connector.jar
+-rw-r--r-- 1 camcgruder 1049089 960K Jan 18 22:39 poi.jar

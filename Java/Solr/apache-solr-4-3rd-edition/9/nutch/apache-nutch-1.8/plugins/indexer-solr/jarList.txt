@@ -1,0 +1,16 @@
+-rw-r--r-- 1 camcgruder 1049089 9.9K Jan 18 22:39 indexer-solr.jar
+-rw-r--r-- 1 camcgruder 1049089  25K Jan 18 22:39 slf4j-api-1.6.1.jar
+-rw-r--r-- 1 camcgruder 1049089  26K Jan 18 22:39 stax-api-1.0.1.jar
+-rw-r--r-- 1 camcgruder 1049089  29K Jan 18 22:39 geronimo-stax-api_1.0_spec-1.0.1.jar
+-rw-r--r-- 1 camcgruder 1049089  46K Jan 18 22:39 jline-0.9.1.jar
+-rw-r--r-- 1 camcgruder 1049089  57K Jan 18 22:39 commons-codec-1.4.jar
+-rw-r--r-- 1 camcgruder 1049089  60K Jan 18 22:39 commons-logging-1.1.1.jar
+-rw-r--r-- 1 camcgruder 1049089  62K Jan 18 22:39 activation-1.1.jar
+-rw-r--r-- 1 camcgruder 1049089 107K Jan 18 22:39 commons-io-1.4.jar
+-rw-r--r-- 1 camcgruder 1049089 276K Jan 18 22:39 solr-solrj-3.4.0.jar
+-rw-r--r-- 1 camcgruder 1049089 298K Jan 18 22:39 commons-httpclient-3.1.jar
+-rw-r--r-- 1 camcgruder 1049089 383K Jan 18 22:39 log4j-1.2.15.jar
+-rw-r--r-- 1 camcgruder 1049089 438K Jan 18 22:39 mail-1.4.1.jar
+-rw-r--r-- 1 camcgruder 1049089 509K Jan 18 22:39 wstx-asl-3.2.7.jar
+-rw-r--r-- 1 camcgruder 1049089 583K Jan 18 22:39 zookeeper-3.3.1.jar
+-rw-r--r-- 1 camcgruder 1049089 1.4M Jan 18 22:39 lucene-core-3.4.0.jar
