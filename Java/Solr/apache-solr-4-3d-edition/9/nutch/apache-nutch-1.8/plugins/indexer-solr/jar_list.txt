@@ -1,0 +1,16 @@
+-rw-r--r-- 1 camcgruder 1049089 1398580 Mar 16 01:11 lucene-core-3.4.0.jar
+-rw-r--r-- 1 camcgruder 1049089  596183 Mar 16 01:11 zookeeper-3.3.1.jar
+-rw-r--r-- 1 camcgruder 1049089  520969 Mar 16 01:11 wstx-asl-3.2.7.jar
+-rw-r--r-- 1 camcgruder 1049089  447676 Mar 16 01:11 mail-1.4.1.jar
+-rw-r--r-- 1 camcgruder 1049089  391834 Mar 16 01:11 log4j-1.2.15.jar
+-rw-r--r-- 1 camcgruder 1049089  305001 Mar 16 01:11 commons-httpclient-3.1.jar
+-rw-r--r-- 1 camcgruder 1049089  281626 Mar 16 01:11 solr-solrj-3.4.0.jar
+-rw-r--r-- 1 camcgruder 1049089  109043 Mar 16 01:11 commons-io-1.4.jar
+-rw-r--r-- 1 camcgruder 1049089   62983 Mar 16 01:11 activation-1.1.jar
+-rw-r--r-- 1 camcgruder 1049089   60686 Mar 16 01:11 commons-logging-1.1.1.jar
+-rw-r--r-- 1 camcgruder 1049089   58160 Mar 16 01:11 commons-codec-1.4.jar
+-rw-r--r-- 1 camcgruder 1049089   46087 Mar 16 01:11 jline-0.9.1.jar
+-rw-r--r-- 1 camcgruder 1049089   28804 Mar 16 01:11 geronimo-stax-api_1.0_spec-1.0.1.jar
+-rw-r--r-- 1 camcgruder 1049089   26514 Mar 16 01:11 stax-api-1.0.1.jar
+-rw-r--r-- 1 camcgruder 1049089   25496 Mar 16 01:11 slf4j-api-1.6.1.jar
+-rw-r--r-- 1 camcgruder 1049089   10105 Mar 16 01:11 indexer-solr.jar

@@ -1,0 +1,15 @@
+-rw-r--r-- 1 camcgruder 1049089 10944150 Mar 16 01:11 elasticsearch-0.90.1.jar
+-rw-r--r-- 1 camcgruder 1049089  2211020 Mar 16 01:11 lucene-core-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089  1562517 Mar 16 01:11 lucene-analyzers-common-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089   385602 Mar 16 01:11 lucene-queryparser-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089   296556 Mar 16 01:11 lucene-codecs-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089   202541 Mar 16 01:11 lucene-queries-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089   142262 Mar 16 01:11 lucene-suggest-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089   123533 Mar 16 01:11 lucene-highlighter-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089   107729 Mar 16 01:11 lucene-grouping-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089    92686 Mar 16 01:11 lucene-spatial-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089    69290 Mar 16 01:11 spatial4j-0.3.jar
+-rw-r--r-- 1 camcgruder 1049089    63098 Mar 16 01:11 lucene-join-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089    45501 Mar 16 01:11 lucene-sandbox-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089    35901 Mar 16 01:11 lucene-memory-4.3.0.jar
+-rw-r--r-- 1 camcgruder 1049089     6506 Mar 16 01:11 indexer-elastic.jar

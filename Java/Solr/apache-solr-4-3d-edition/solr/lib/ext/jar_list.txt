@@ -1,0 +1,5 @@
+-rw-r--r-- 1 camcgruder 1049089 481535 Mar 16 01:11 log4j-1.2.16.jar
+-rw-r--r-- 1 camcgruder 1049089  28688 Mar 16 01:11 slf4j-api-1.7.6.jar
+-rw-r--r-- 1 camcgruder 1049089  16515 Mar 16 01:11 jcl-over-slf4j-1.7.6.jar
+-rw-r--r-- 1 camcgruder 1049089   8869 Mar 16 01:11 slf4j-log4j12-1.7.6.jar
+-rw-r--r-- 1 camcgruder 1049089   4959 Mar 16 01:11 jul-to-slf4j-1.7.6.jar

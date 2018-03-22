@@ -1,0 +1,12 @@
+-rw-r--r-- 1 camcgruder 1049089 347020 Mar 16 01:11 jetty-server-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089 284903 Mar 16 01:11 jetty-util-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089 200387 Mar 16 01:11 servlet-api-3.0.jar
+-rw-r--r-- 1 camcgruder 1049089 110227 Mar 16 01:11 jetty-webapp-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089 103622 Mar 16 01:11 jetty-io-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089 101052 Mar 16 01:11 jetty-servlet-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089  95709 Mar 16 01:11 jetty-http-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089  89691 Mar 16 01:11 jetty-security-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089  60756 Mar 16 01:11 jetty-deploy-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089  38983 Mar 16 01:11 jetty-xml-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089  24595 Mar 16 01:11 jetty-jmx-8.1.10.v20130312.jar
+-rw-r--r-- 1 camcgruder 1049089  21144 Mar 16 01:11 jetty-continuation-8.1.10.v20130312.jar

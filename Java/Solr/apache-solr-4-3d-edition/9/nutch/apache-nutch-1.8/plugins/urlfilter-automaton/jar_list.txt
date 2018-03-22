@@ -1,0 +1,2 @@
+-rw-r--r-- 1 camcgruder 1049089 176285 Mar 16 01:11 automaton-1.11-8.jar
+-rw-r--r-- 1 camcgruder 1049089   2813 Mar 16 01:11 urlfilter-automaton.jar

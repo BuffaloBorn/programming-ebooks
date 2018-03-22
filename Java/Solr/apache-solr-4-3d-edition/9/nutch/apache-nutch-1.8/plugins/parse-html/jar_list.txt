@@ -1,0 +1,2 @@
+-rw-r--r-- 1 camcgruder 1049089 90722 Mar 16 01:11 tagsoup-1.2.1.jar
+-rw-r--r-- 1 camcgruder 1049089 19839 Mar 16 01:11 parse-html.jar
